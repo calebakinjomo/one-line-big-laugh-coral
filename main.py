@@ -3,7 +3,9 @@
 
 Writes a single hilarious line (112 characters, well under the 200 limit)
 to /output/entry.txt. The line stands entirely on its own: no title, no
-setup, no explanation around it.
+setup, no explanation around it. It is judged on being genuinely funny,
+with an unexpected turn, tight, and fresh — and it must stay within the
+200-character cap.
 
 The joke: a doctor's sensible advice (cut back on salt) met with absurd
 literal compliance — crying directly into the pasta so nature takes its
